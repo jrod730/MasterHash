@@ -51,3 +51,7 @@ Crafting a good issue will make it much easier for the dev team to replicate and
 7. Ask for a review in the comments section.
 
 Pull requests from first-timers and seasoned veteran programmers are very much welcome.
+
+## JavaFx Resources
+---
+1. [JavaFX Java GUI Design Tutorials] (https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG)
