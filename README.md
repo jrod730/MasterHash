@@ -55,4 +55,4 @@ Pull requests from first-timers and seasoned veteran programmers are very much w
 ## JavaFx Resources
 ---
 1. [JavaFX Java GUI Design Tutorials] (https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG)
-2. [JavaFX crash course for GUI design] (https://www.udemy.com/crash-course-into-javafx-the-best-way-to-make-gui-apps)
+2. [JavaFX Crash Course for GUI Design] (https://www.udemy.com/crash-course-into-javafx-the-best-way-to-make-gui-apps)
